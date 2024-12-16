@@ -54,7 +54,8 @@ public class Cimb {
 }
 
 You should display the following output:
-![image](https://github.com/user-attachments/assets/ea6f14d1-c87f-40d6-a65a-70ab90d4c715)
+
+![image](https://github.com/user-attachments/assets/898cda52-eb65-42b3-861a-86c0bfa374f1)
 
 ## Description of the following methods
 
